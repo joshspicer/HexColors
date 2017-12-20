@@ -6,6 +6,7 @@ The user is provided multiple ways to manipulate 3 integer values representing a
 <br><br>
 This was built out of necessity and curiousity while working on a graphics project. I thought an app like this would be useful to quickly test color combos.  Similar apps on the App Store were paid, which inspired me to see if I could write such an application myself!
 
-![sliders](/sliders.png)
+<img src="HexColors/sliders.png" width="500">
 
-![num pad](/numpad.png)
+
+<img src="HexColors/numpad.png" width="500">
